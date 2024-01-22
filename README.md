@@ -1,7 +1,6 @@
-STUDENT GRADE GENERATOR
-    the studentgradegenerator.js file is a javascript file designed to calculate inputed numbers which are the student marks and gives a grade based on function inside.
-inorder to get the grade of the of the inputed marks,the function "grade()" is used.
+            #TOY PROBLEM PHASE 1
 
-SPEED DETECTOR
- the speed detector program is a program designed to ensure that cars in traffic are driving at a regulated speed range.
-    <!-- I was unable to do the third problem -->
+        ##CHALLENGE 1
+The first challenge is a grade generator.Takes a number input*(marks) and outputs a grade based on the output.
+         ###Funcionality
+How the grade is generated from the inputed marks is very simple a function with nested if is defined in the studentgradegenerator.js file 
